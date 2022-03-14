@@ -4,7 +4,7 @@ Bar Chart Race Premier League since 1992, round to round, with python, pandas em
 
 ## Example
 
-![enter image description here](https://github.com/nakaroov/Premier_League_BCR/blob/main/Example.gif)
+![enter image description here](https://github.com/nakaroov/BarChartRaceEPL/blob/main/Example.gif)
 
 ## Datas
 
@@ -14,13 +14,13 @@ Bar Chart Race Premier League since 1992, round to round, with python, pandas em
 
 ## Scenarios
 
-[ Chelsea - Abramovich Era ] (https://public.flourish.studio/visualisation/8960484/)
+[ Chelsea - Abramovich Era ](https://public.flourish.studio/visualisation/8960484/)
 
 ## Flourish Visualisation 
 
-[ Flourish ] (https://public.flourish.studio/visualisation/8960059/)
+[ Flourish ](https://public.flourish.studio/visualisation/8960059/)
 
 
 ## Bar-Chart-Race Documentation
 
-[ Bar-Chart-Race ] (https://www.dexplo.org/bar_chart_race/ )
+[ Bar-Chart-Race ](https://www.dexplo.org/bar_chart_race/ )
